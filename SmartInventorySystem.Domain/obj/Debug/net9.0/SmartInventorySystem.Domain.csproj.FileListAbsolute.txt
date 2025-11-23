@@ -1,0 +1,11 @@
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Domain\obj\Debug\net9.0\SmartInventorySystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Domain\obj\Debug\net9.0\SmartInventorySystem.Domain.AssemblyInfoInputs.cache
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Domain\obj\Debug\net9.0\SmartInventorySystem.Domain.AssemblyInfo.cs
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Domain\obj\Debug\net9.0\SmartInventorySystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Domain\bin\Debug\net9.0\SmartInventorySystem.Domain.deps.json
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Domain\bin\Debug\net9.0\SmartInventorySystem.Domain.dll
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Domain\bin\Debug\net9.0\SmartInventorySystem.Domain.pdb
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Domain\obj\Debug\net9.0\SmartInventorySystem.Domain.dll
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Domain\obj\Debug\net9.0\refint\SmartInventorySystem.Domain.dll
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Domain\obj\Debug\net9.0\SmartInventorySystem.Domain.pdb
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Domain\obj\Debug\net9.0\ref\SmartInventorySystem.Domain.dll

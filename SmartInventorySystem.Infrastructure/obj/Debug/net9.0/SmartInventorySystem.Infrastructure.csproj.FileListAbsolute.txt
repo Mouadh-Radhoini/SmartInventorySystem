@@ -1,0 +1,17 @@
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\bin\Debug\net9.0\SmartInventorySystem.Infrastructure.deps.json
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\bin\Debug\net9.0\SmartInventorySystem.Infrastructure.dll
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\bin\Debug\net9.0\SmartInventorySystem.Infrastructure.pdb
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\bin\Debug\net9.0\SmartInventorySystem.Domain.dll
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\bin\Debug\net9.0\SmartInventorySystem.Domain.pdb
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\obj\Debug\net9.0\SmartInventorySystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\obj\Debug\net9.0\SmartInventorySystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\obj\Debug\net9.0\SmartInventorySystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\obj\Debug\net9.0\SmartInventorySystem.Infrastructure.AssemblyInfo.cs
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\obj\Debug\net9.0\SmartInventorySystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\obj\Debug\net9.0\SmartInv.EA317C8B.Up2Date
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\obj\Debug\net9.0\SmartInventorySystem.Infrastructure.dll
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\obj\Debug\net9.0\refint\SmartInventorySystem.Infrastructure.dll
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\obj\Debug\net9.0\SmartInventorySystem.Infrastructure.pdb
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\obj\Debug\net9.0\ref\SmartInventorySystem.Infrastructure.dll
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\bin\Debug\net9.0\SmartInventorySystem.Infrastructure.runtimeconfig.json
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem.Infrastructure\obj\Debug\net9.0\SmartInventorySystem.Infrastructure.genruntimeconfig.cache

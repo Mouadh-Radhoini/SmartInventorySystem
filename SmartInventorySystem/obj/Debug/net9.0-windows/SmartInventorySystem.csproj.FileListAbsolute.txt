@@ -1,0 +1,14 @@
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem\bin\Debug\net9.0-windows\SmartInventorySystem.exe
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem\bin\Debug\net9.0-windows\SmartInventorySystem.deps.json
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem\bin\Debug\net9.0-windows\SmartInventorySystem.runtimeconfig.json
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem\bin\Debug\net9.0-windows\SmartInventorySystem.dll
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem\bin\Debug\net9.0-windows\SmartInventorySystem.pdb
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem\obj\Debug\net9.0-windows\SmartInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem\obj\Debug\net9.0-windows\SmartInventorySystem.AssemblyInfoInputs.cache
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem\obj\Debug\net9.0-windows\SmartInventorySystem.AssemblyInfo.cs
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem\obj\Debug\net9.0-windows\SmartInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem\obj\Debug\net9.0-windows\SmartInventorySystem.dll
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem\obj\Debug\net9.0-windows\refint\SmartInventorySystem.dll
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem\obj\Debug\net9.0-windows\SmartInventorySystem.pdb
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem\obj\Debug\net9.0-windows\SmartInventorySystem.genruntimeconfig.cache
+C:\Users\rdmou\RiderProjects\SmartInventorySystem\SmartInventorySystem\obj\Debug\net9.0-windows\ref\SmartInventorySystem.dll
