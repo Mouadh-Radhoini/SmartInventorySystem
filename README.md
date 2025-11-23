@@ -1,61 +1,96 @@
-📄 README.md at the root of your project.
+🌟 Smart Inventory & Sales Management System
 
-Here is a clean, professional README for a C# Smart Inventory System:
+A modern, clean, and efficient C# Windows Forms + ADO.NET + SQL Server desktop application designed for managing inventory, sales, stock levels, and users.
+Made to be simple, fast, and professional.
 
-📦 Smart Inventory & Sales Management System
+<div align="center">
+🛒 Inventory Management • 💰 Sales Tracking • 📊 Dashboard Analytics
+</div>
+🎯 Overview
 
-A modern and professional C# Windows Forms + ADO.NET + SQL Server desktop application for managing products, categories, stock, sales, and users.
-Built for performance, simplicity, and scalability.
+The Smart Inventory System is a complete desktop application that allows businesses to track:
 
-🚀 Features
-🛒 Inventory Management
+Products
 
-Add, update, delete products
+Categories
+
+Sales
+
+Users
+
+Stock Levels
+
+This project follows a clean and structured architecture, making it easy to upgrade, maintain, and extend.
+
+✨ Key Features
+🧩 Product & Category Management
+
+Add / Edit / Delete products
 
 Manage categories
 
-Track quantities & prices
+Product price management
 
-Automatic low-stock detection
+Real-time stock updates
 
-💰 Sales Module
+📉 Stock Monitoring
+
+Automatic low-stock alerts
+
+Dashboard quick reminders
+
+Instant value calculations
+
+💵 Sales System
 
 Create sales
 
-Record transactions
+Calculate totals automatically
 
-View daily/monthly revenue reports
+Store sale data in SQL Server
 
-👥 User Management
+🔐 Authentication System
 
-Authentication (login/logout)
+Login form
 
-Role-based navigation (admin vs staff)
+Role-based navigation (Admin / Staff)
 
-📊 Dashboard
+🖥️ Modern UI (Code-Designed)
 
-Total products, low stock alerts
+Custom Windows Forms UI using C#
 
-Total sales & statistics
+Dark theme (professional design)
 
-Quick navigation buttons
+Dashboard with buttons & statistics
 
-🏗️ Architecture (Clean Architecture Style)
+🏗️ Project Architecture
 SmartInventorySystem/
 │
-├── Domain/               → Core business logic (Entities, Interfaces)
-├── Infrastructure/       → Database access using ADO.NET + SQL Server
-├── UI/                   → Windows Forms (WinForms)
+├── Domain/                 # Business logic + Models + Interfaces
+│   ├── Entities
+│   ├── Interfaces
+│   └── Services
+│
+├── Infrastructure/         # ADO.NET Data Access Layer
+│   ├── Database
+│   └── Repositories
+│
+├── UI/                     # Windows Forms (Dashboard, Products, Login...)
+│   ├── Forms
+│   └── Components
 │
 ├── Program.cs
-├── app.config
-└── SmartInventorySystem.sln
+└── app.config
 
-🗄️ Database
+
+Why this structure?
+So the project behaves like a real industry project (clean architecture).
+
+🗄️ Database Structure
 
 This project uses SQL Server LocalDB.
+Run this SQL script to create your database:
 
-Run this SQL script to create the DB:
 CREATE DATABASE SmartInventory;
 GO
 
@@ -91,25 +126,50 @@ CREATE TABLE Users (
     Role NVARCHAR(50)
 );
 
-▶️ Running the Project
-
-Open the solution in Rider or Visual Studio
-
-Ensure LocalDB is installed
-
-Run the SQL script
+🔧 Configuration
 
 Update the connection string in app.config:
 
 <connectionStrings>
   <add name="db"
-       connectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=SmartInventory;Integrated Security=True"/>
+       connectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=SmartInventory;Integrated Security=True" />
 </connectionStrings>
 
+▶️ How to Run the Project
 
-Start the app — you're ready to use it 🎉
+Clone the repository
 
-📝 Author
+Open the solution in Rider or Visual Studio
+
+Create the SQL database (run the script)
+
+Update the connection string
+
+Run the project
+
+You're ready to go 🚀
+
+📸 Screenshots (Add Later)
+
+You can add images here:
+
+/screenshots/dashboard.png
+/screenshots/products.png
+/screenshots/login.png
+
+🚀 Future Improvements
+
+Export sales as PDF
+
+Barcode generation
+
+Enhanced reporting (charts)
+
+User roles & permissions
+
+Supplier management
+
+👨‍💻 Author
 
 Mouadh Radhoini
-Smart Inventory System • 2025
+Smart Inventory System – 2025
